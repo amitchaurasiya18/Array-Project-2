@@ -1,0 +1,7 @@
+D:\Visual Studio Projects (Training)\ArrayProject2\bin\Debug\ArrayProject2.exe.config
+D:\Visual Studio Projects (Training)\ArrayProject2\bin\Debug\ArrayProject2.exe
+D:\Visual Studio Projects (Training)\ArrayProject2\bin\Debug\ArrayProject2.pdb
+D:\Visual Studio Projects (Training)\ArrayProject2\obj\Debug\ArrayProject2.csproj.AssemblyReference.cache
+D:\Visual Studio Projects (Training)\ArrayProject2\obj\Debug\ArrayProject2.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects (Training)\ArrayProject2\obj\Debug\ArrayProject2.exe
+D:\Visual Studio Projects (Training)\ArrayProject2\obj\Debug\ArrayProject2.pdb
